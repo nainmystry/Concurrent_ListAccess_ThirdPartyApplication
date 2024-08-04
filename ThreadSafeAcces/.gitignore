@@ -1,0 +1,57 @@
+# .NET Core
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.config
+
+# ASP.NET Core
+wwwroot/
+appsettings*.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Azure Pipelines
+*.pipeline
+
+# Local database files
+*.mdf
+*.ldf
+
+# DotCover
+*.dotCover
+
+# ReSharper
+*.DotSettings.user
+*.DotSettings
+
+# Coverage results
+coverage/
