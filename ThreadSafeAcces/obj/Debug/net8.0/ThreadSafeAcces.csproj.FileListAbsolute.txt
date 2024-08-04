@@ -1,0 +1,15 @@
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/bin/Debug/net8.0/ThreadSafeAcces
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/bin/Debug/net8.0/ThreadSafeAcces.deps.json
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/bin/Debug/net8.0/ThreadSafeAcces.runtimeconfig.json
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/bin/Debug/net8.0/ThreadSafeAcces.dll
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/bin/Debug/net8.0/ThreadSafeAcces.pdb
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.AssemblyInfoInputs.cache
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.AssemblyInfo.cs
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.csproj.CoreCompileInputs.cache
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.sourcelink.json
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.dll
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/refint/ThreadSafeAcces.dll
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.pdb
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ThreadSafeAcces.genruntimeconfig.cache
+/workspaces/Concurrent_ListAccess_ThirdPartyApplication/ThreadSafeAcces/obj/Debug/net8.0/ref/ThreadSafeAcces.dll
