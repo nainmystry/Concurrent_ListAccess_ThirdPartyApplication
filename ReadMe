@@ -1,0 +1,4 @@
+Semaphore-Protected Concurrent List Access in Third-Party Application
+This solution uses a semaphore to manage concurrent access to a shared list within a third-party application. 
+The ThirdPartyApp class continuously updates the list in a background task, 
+while the CallingApp retrieves and processes the list at intervals, ensuring thread safety and consistency.
