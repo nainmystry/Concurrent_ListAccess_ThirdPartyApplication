@@ -3,5 +3,5 @@
 
 
 await CallingApp.Run();
-
+Console.WriteLine("Press Enter to close");
 Console.ReadLine();
